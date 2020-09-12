@@ -1,0 +1,21 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.Artists{
+    display:flex;
+    background-color: skyblue;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.Designs{
+    display:flex;
+    background-color: steelblue;
+    font-size: 20px;
+    font-weight: 300;
+}
